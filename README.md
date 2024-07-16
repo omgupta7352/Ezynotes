@@ -16,9 +16,10 @@ Ezynote is a web-based note-taking application designed to help users easily cre
 
 ## Features
 
-- Search for the current weather in any city.
-- Display weather details such as temperature, humidity, and wind speed.
-- Show a 5-day weather forecast.
+- User authentication (registration, login, logout).
+- Create, read, update, delete (CRUD) operations for notes.
+- Note categorization and tagging.
+- Pagination for notes.
 - Responsive design for mobile and desktop use.
 
 ## Demo
