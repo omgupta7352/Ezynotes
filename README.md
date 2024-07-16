@@ -11,7 +11,7 @@ Ezynote is a web-based note-taking application designed to help users easily cre
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [API Endpoints](#api-endpoints)
+- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Features
@@ -37,6 +37,7 @@ You can try out the BlogSphere live [here](https://ezynotes.onrender.com/).
 - Lombok
 - Thymeleaf
 - Maven
+- -BootStrap
 
 ## Installation
 
@@ -45,13 +46,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/omgupta7352/Blogsphere.git
+    git clone https://github.com/omgupta7352/Ezynotes.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Blogsphere
+    cd Ezynotes
     ```
 
 
@@ -68,20 +69,12 @@ To run this project locally, follow these steps:
 
 4. Open your web browser and go to `http://localhost:8080`.
 
-## API Endpoints
+## Usage
 
-1. Posts
-   - `GET /api/posts`: Get all posts
-   - `GET /api/posts/{id}`: Get a single post by ID
-   - `POST /api/posts`: Create a new post
-   - `PUT /api/posts/{id}`: Update an existing post
-   - `DELETE /api/posts/{id}`: Delete a post
-
-2. Comments
-   - `GET /api/posts/{postId}/comments`: Get all comments for a post
-   - `POST /api/posts/{postId}/comments`: Add a comment to a post
-   - `PUT /api/comments/{id}`: Update a comment
-   - `DELETE /api/comments/{id}`: Delete a comment
+1. Open your browser and navigate to `http://localhost:8080`
+2. Register a new user account.
+3. Log in using your credentials.
+4. Create, edit, and delete notes.
 
 
 ## Contributing
