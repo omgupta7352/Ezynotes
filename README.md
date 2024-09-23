@@ -24,7 +24,7 @@ Ezynote is a web-based note-taking application designed to help users easily cre
 
 ## Demo
 
-You can try out the BlogSphere live [here](https://ezynotes.onrender.com/).
+You can try out the BlogSphere live [here](https://ezynotes-wwdl.onrender.com).
 
 ## Technologies Used
 
