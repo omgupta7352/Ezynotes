@@ -1,7 +1,11 @@
 # EzyNotes
 
-![EZYNOTE](ime1.png)
-![](ime2.png)
+![EZYNOTE](home.png)
+![](register.png)
+![](login.png)
+![](add.png)
+![](view.png)
+![](edit.png)
 
 Ezynote is a web-based note-taking application designed to help users easily create, manage, and organize their notes. Built with Spring Boot, Thymeleaf, and PostgreSQL, Ezynote offers a user-friendly interface for note management, including features such as categorization, tagging, and search functionality.
 
