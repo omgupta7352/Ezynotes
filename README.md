@@ -1,4 +1,4 @@
-# EzyNotes
+# EzyNotes :smile: :rocket: :computer:
 
 ![EZYNOTE](home.png)
 ![](register.png)
