@@ -13,6 +13,7 @@ Ezynote is a web-based note-taking application designed to help users easily cre
 
 - [Features](#features)
 - [Demo](#demo)
+- [Diagram](#diagram)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -29,6 +30,26 @@ Ezynote is a web-based note-taking application designed to help users easily cre
 ## Demo
 
 You can try out the BlogSphere live [here](https://ezynotes-wwdl.onrender.com).
+
+## Diagram
+
+```
+
++-----------------+              +-------------+
+|      User       |1           * |    Notes    |
++-----------------+ <----------> +-------------+
+| - id: Integer   |              | - id: Integer   |
+| - name: String  |              | - title: String |
+| - qualification: String|       | - description: String |
+| - email: String |              | - date: LocalDate     |
+| - address: String|             | - user_id: Integer    |
+| - gender: String|              +-------------+
+| - password: String|
+| - role: String   |
++-----------------+
+
+
+```
 
 ## Technologies Used
 
